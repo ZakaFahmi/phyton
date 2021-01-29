@@ -1,9 +1,9 @@
 
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rubentea16.rubentea16)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=rubentea16&show_icons=true)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=andreaschandra.andreaschandra) \
-![Github Stats](https://github-readme-stats.vercel.app/api?username=andreaschandra&show_icons=true)
+![Visitor Badge](https://github.com/zakafahmi)
+![Github Stats](https://github.com/zakafahmi)
+![Visitor Badge](https://github.com/zakafahmi) \
+![Github Stats](https://github.com/zakafahmi)
 
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-pink?style=flat-square&logo=Pytorch)
