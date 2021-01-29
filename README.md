@@ -1,10 +1,5 @@
 ### Black Magic at Science 🎩
 
-🔎 Research interest: Natural Language Processing and Generation
-💻 Editor
-🤦 Life is not supposed to be boring
-
-💬 Contact me through Discord andreaschandra#4851
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rubentea16.rubentea16)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=rubentea16&show_icons=true)
