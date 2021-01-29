@@ -5,7 +5,7 @@ Hi there, thanks for stopping by, this is **zaka fahmi** from indonesia, base in
 **I'm currently seeking for a new job**
 
 - Senior Java Developer(main)
-  - 5 years experiences
+  - 1 years experiences
 
 - Frontend developer(second)
   - Vue.js (1 year experience)
